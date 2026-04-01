@@ -1,6 +1,7 @@
 # Star Wars Rice
 
 ![Desktop Screenshot](https://raw.githubusercontent.com/Noifya/Star-Wars-Rice/showcase/desktop/desktop.jpg)
+![Desktop Screenshot](https://raw.githubusercontent.com/Noifya/Star-Wars-Rice/showcase/desktop/desktop-1.png)
 
 ## Installation
 
