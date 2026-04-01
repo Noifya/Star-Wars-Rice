@@ -1,7 +1,7 @@
 # Star Wars Rice
 
-![Desktop Screenshot](https://raw.githubusercontent.com/Noifya/Star-Wars-Rice/showcase/desktop/desktop.jpg)
-![Desktop Screenshot](https://raw.githubusercontent.com/Noifya/Star-Wars-Rice/showcase/desktop/desktop-1.png)
+![Desktop Screenshot](https://raw.githubusercontent.com/Zeibytes/Star-Wars-Rice/showcase/desktop/desktop.jpg)
+![Desktop Screenshot](https://raw.githubusercontent.com/Zeibytes/Star-Wars-Rice/showcase/desktop/desktop-1.png)
 
 ## Installation
 
@@ -30,7 +30,7 @@ network-manager-applet
 
 1. **Clone the repository:**
 ```bash
-git clone --depth=1 https://github.com/noifya/Star-Wars-Rice.git ~/.local/share/Star-Wars-Rice
+git clone --depth=1 https://github.com/Zeibytes/Star-Wars-Rice.git ~/.local/share/Star-Wars-Rice
 cd ~/.local/share/Star-Wars-Rice
 ```
 
