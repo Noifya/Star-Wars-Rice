@@ -1,3 +1,3 @@
 Star-Wars-Rice
 
-![Desktop Screenshot](https://github.com/Noifya/Star-Wars-Rice/blob/main/README.md)
+![Desktop Screenshot](https://raw.githubusercontent.com/noifya/Star-Wars-Rice/assets/desktop/desktop.jpg)
