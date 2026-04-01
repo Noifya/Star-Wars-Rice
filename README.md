@@ -9,9 +9,20 @@
 Install the following dependencies:
 
 ```bash
-stow          # For managing symlinks
-hyprland
-fastfetch     # For system information display
+stow                    # For managing symlinks
+hyprland                # The window manager duh
+fastfetch               # For system information display
+kitty                   # Terminal emulator
+rofi                    # App launcher
+waybar                  # Status bar
+waypaper                # GUI wallpaper setter for Wayland and Xorg window managers.
+zsh                     # shell
+swaybg                  # Wallpaper daemon
+playerctl               # Audio
+brightnessctl           # ✨
+nemo                    # Filemanager
+firefox                 # Default browser
+network-manager-applet
 ```
 
 ### Quick Start
